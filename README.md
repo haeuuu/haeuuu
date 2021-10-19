@@ -1,5 +1,8 @@
-### Hi there 👋
-
+## 🌏 🏃🏻‍♀️ ✨ 
+```
+Do not follow where the path may lead
+Go instead where there is no path and leave a trail
+```
 <!--
 **haeuuu/haeuuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
